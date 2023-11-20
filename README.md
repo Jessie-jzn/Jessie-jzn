@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jessie, I'm a Chinese and I have been working as a front-end web developer for five years.
+- 👋 Hi, I’m Jessie, I'm a Chinese and I have been working as a front-end web developer for six years.
 - 👀 I’m interested in surfing and coding.
 - 🌱 I’m currently learning React\Typescript\Webpack\Node.
 - 💞️ life motto:"The real thing to go with the flow is that it is not forcing yourself after doing your best, not do nothing"
