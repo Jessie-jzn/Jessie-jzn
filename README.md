@@ -1,4 +1,5 @@
-Hi! I’m Jessie.
+
+### 👋 Hi! I’m Jessie.
 
 - 👨‍💻 An experienced front-end engineer from China with over 7 years of professional experience.
 - 🔨 Skilled in JavaScript, TypeScript, Next.js, React, Vue.js and Node.js.
