@@ -7,7 +7,7 @@
 - 🌱 Projects that enhance user experience, improve efficiency, and make a difference in lives catch my attention.
 - 📒 Focus on becoming a full-stack engineer and studying the balance between self-growth, work, and life.
 - 💞️ life motto: "The real thing to go with the flow is that it is not forcing yourself after doing your best, not do nothing"
-- 👏 My blog: "https://jessie-jzn.github.io/Jessie-blog/"
+- 👏 My blog: "https://jessie-blog.vercel.app/"
 
 ## 📫 Contact me via:
 
