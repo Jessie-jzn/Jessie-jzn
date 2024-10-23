@@ -45,8 +45,3 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 </div>
-    
-## 📈 My Activities
-![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessie-jzn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-jzn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
